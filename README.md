@@ -1,0 +1,1 @@
+# Curd_Operation_Using_Django_mysql
